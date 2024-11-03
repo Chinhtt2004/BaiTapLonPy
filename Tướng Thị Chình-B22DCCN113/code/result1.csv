@@ -1,0 +1,919 @@
+Metric,Category,Player,Value
+Age,Top,Ashley Young,38.0
+Age,Top,Thiago Silva,38.0
+Age,Top,Łukasz Fabiański,38.0
+Age,Bottom,Leon Chiwome,17.0
+Age,Bottom,Lewis Miley,17.0
+Age,Bottom,David Ozoh,18.0
+Playing time_Matches played,Top,André Onana,38.0
+Playing time_Matches played,Top,Bernd Leno,38.0
+Playing time_Matches played,Top,Carlton Morris,38.0
+Playing time_Matches played,Bottom,Alex Iwobi,2.0
+Playing time_Matches played,Bottom,Ionuț Radu,2.0
+Playing time_Matches played,Bottom,Matheus Nunes,2.0
+Playing time_Starts,Top,André Onana,38.0
+Playing time_Starts,Top,Bernd Leno,38.0
+Playing time_Starts,Top,Guglielmo Vicario,38.0
+Playing time_Starts,Bottom,David Ozoh,0.0
+Playing time_Starts,Bottom,Ivan Perišić,0.0
+Playing time_Starts,Bottom,Jesurun Rak Sakyi,0.0
+Playing time_Minutes,Top,André Onana,3420.0
+Playing time_Minutes,Top,Bernd Leno,3420.0
+Playing time_Minutes,Top,Guglielmo Vicario,3420.0
+Playing time_Minutes,Bottom,John Fleck,92.0
+Playing time_Minutes,Bottom,Kalvin Phillips,93.0
+Playing time_Minutes,Bottom,Ivan Perišić,103.0
+Performance_non-Penalty Goals,Top,Cole Palmer,33.0
+Performance_non-Penalty Goals,Top,Erling Haaland,32.0
+Performance_non-Penalty Goals,Top,Ollie Watkins,32.0
+Performance_non-Penalty Goals,Bottom,Aaron Cresswell,0.0
+Performance_non-Penalty Goals,Bottom,Aaron Hickey,0.0
+Performance_non-Penalty Goals,Bottom,Aaron Ramsdale,0.0
+Performance_Penalty Goals,Top,Erling Haaland,27.0
+Performance_Penalty Goals,Top,Cole Palmer,22.0
+Performance_Penalty Goals,Top,Alexander Isak,21.0
+Performance_Penalty Goals,Bottom,Aaron Cresswell,0.0
+Performance_Penalty Goals,Bottom,Aaron Hickey,0.0
+Performance_Penalty Goals,Bottom,Aaron Ramsdale,0.0
+Performance_Assists,Top,Ollie Watkins,13.0
+Performance_Assists,Top,Cole Palmer,11.0
+Performance_Assists,Top,Anthony Gordon,10.0
+Performance_Assists,Bottom,Aaron Cresswell,0.0
+Performance_Assists,Bottom,Aaron Hickey,0.0
+Performance_Assists,Bottom,Aaron Ramsdale,0.0
+Performance_Yellow Cards,Top,João Palhinha,13.0
+Performance_Yellow Cards,Top,Marcos Senesi,13.0
+Performance_Yellow Cards,Top,Anthony Gordon,12.0
+Performance_Yellow Cards,Bottom,Aaron Ramsdale,0.0
+Performance_Yellow Cards,Bottom,Alex Iwobi,0.0
+Performance_Yellow Cards,Bottom,Amari'i Bell,0.0
+Performance_Red Cards,Top,Oliver McBurnie,2.0
+Performance_Red Cards,Top,Reece James,2.0
+Performance_Red Cards,Top,Yves Bissouma,2.0
+Performance_Red Cards,Bottom,Aaron Cresswell,0.0
+Performance_Red Cards,Bottom,Aaron Hickey,0.0
+Performance_Red Cards,Bottom,Aaron Ramsdale,0.0
+Expected_xG,Top,Erling Haaland,29.2
+Expected_xG,Top,Mohamed Salah,21.2
+Expected_xG,Top,Alexander Isak,20.3
+Expected_xG,Bottom,Aaron Cresswell,0.0
+Expected_xG,Bottom,Aaron Ramsdale,0.0
+Expected_xG,Bottom,Alisson,0.0
+Expected_npxG,Top,Erling Haaland,22.9
+Expected_npxG,Top,Nicolas Jackson,18.6
+Expected_npxG,Top,Dominic Solanke,17.2
+Expected_npxG,Bottom,Aaron Cresswell,0.0
+Expected_npxG,Bottom,Aaron Ramsdale,0.0
+Expected_npxG,Bottom,Alisson,0.0
+Expected_xAG,Top,Kevin De Bruyne,0.85
+Expected_xAG,Top,Ivan Perišić,0.75
+Expected_xAG,Top,Sasa Kalajdzic,0.52
+Expected_xAG,Bottom,Aaron Ramsdale,0.0
+Expected_xAG,Bottom,Alfie Gilchrist,0.0
+Expected_xAG,Bottom,Alisson,0.0
+Progression_PrgC,Top,Jeremy Doku,218.0
+Progression_PrgC,Top,Alejandro Garnacho,178.0
+Progression_PrgC,Top,Bukayo Saka,155.0
+Progression_PrgC,Bottom,Aaron Ramsdale,0.0
+Progression_PrgC,Bottom,Alisson,0.0
+Progression_PrgC,Bottom,Alphonse Areola,0.0
+Progression_PrgP,Top,Rodri,376.0
+Progression_PrgP,Top,Martin Ødegaard,344.0
+Progression_PrgP,Top,Pascal Groß,302.0
+Progression_PrgP,Bottom,Bernd Leno,0.0
+Progression_PrgP,Bottom,Daniel Bentley,0.0
+Progression_PrgP,Bottom,Dean Henderson,0.0
+ProgressionPrgR,Top,Bukayo Saka,508.0
+ProgressionPrgR,Top,Dejan Kulusevski,388.0
+ProgressionPrgR,Top,Gabriel Martinelli,345.0
+ProgressionPrgR,Bottom,Aaron Ramsdale,0.0
+ProgressionPrgR,Bottom,Alisson,0.0
+ProgressionPrgR,Bottom,Alphonse Areola,0.0
+Per 90 minutes_Gls,Top,Sasa Kalajdzic,1.08
+Per 90 minutes_Gls,Top,Erling Haaland,0.95
+Per 90 minutes_Gls,Top,Jhon Durán,0.95
+Per 90 minutes_Gls,Bottom,Aaron Cresswell,0.0
+Per 90 minutes_Gls,Bottom,Aaron Hickey,0.0
+Per 90 minutes_Gls,Bottom,Aaron Ramsdale,0.0
+Per 90 minutes_Assists,Top,Manor Solomon,0.9
+Per 90 minutes_Assists,Top,Ivan Perišić,0.87
+Per 90 minutes_Assists,Top,Kevin De Bruyne,0.74
+Per 90 minutes_Assists,Bottom,Aaron Cresswell,0.0
+Per 90 minutes_Assists,Bottom,Aaron Hickey,0.0
+Per 90 minutes_Assists,Bottom,Aaron Ramsdale,0.0
+Per 90 minutes_G+A,Top,Adama Traoré,1.19
+Per 90 minutes_G+A,Top,Cole Palmer,1.14
+Per 90 minutes_G+A,Top,Erling Haaland,1.13
+Per 90 minutes_G+A,Bottom,Aaron Cresswell,0.0
+Per 90 minutes_G+A,Bottom,Aaron Hickey,0.0
+Per 90 minutes_G+A,Bottom,Aaron Ramsdale,0.0
+Per 90 minutes_G-PK,Top,Adama Traoré,1.19
+Per 90 minutes_G-PK,Top,Enes Ünal,1.1
+Per 90 minutes_G-PK,Top,Sasa Kalajdzic,1.08
+Per 90 minutes_G-PK,Bottom,Aaron Cresswell,0.0
+Per 90 minutes_G-PK,Bottom,Aaron Hickey,0.0
+Per 90 minutes_G-PK,Bottom,Aaron Ramsdale,0.0
+Per 90 minutes_G+A-PK,Top,Adama Traoré,1.19
+Per 90 minutes_G+A-PK,Top,Enes Ünal,1.1
+Per 90 minutes_G+A-PK,Top,Sasa Kalajdzic,1.08
+Per 90 minutes_G+A-PK,Bottom,Aaron Cresswell,0.0
+Per 90 minutes_G+A-PK,Bottom,Aaron Hickey,0.0
+Per 90 minutes_G+A-PK,Bottom,Aaron Ramsdale,0.0
+Per 90 minutes_xG,Top,Kieffer Moore,1.23
+Per 90 minutes_xG,Top,Neal Maupay,1.16
+Per 90 minutes_xG,Top,Erling Haaland,1.03
+Per 90 minutes_xG,Bottom,Aaron Cresswell,0.0
+Per 90 minutes_xG,Bottom,Aaron Ramsdale,0.0
+Per 90 minutes_xG,Bottom,Adam Smith,0.0
+Per 90 minutes_xAG,Top,Kevin De Bruyne,0.85
+Per 90 minutes_xAG,Top,Ivan Perišić,0.75
+Per 90 minutes_xAG,Top,Sasa Kalajdzic,0.52
+Per 90 minutes_xAG,Bottom,Aaron Ramsdale,0.0
+Per 90 minutes_xAG,Bottom,Alfie Gilchrist,0.0
+Per 90 minutes_xAG,Bottom,Alisson,0.0
+Per 90 minutes_xG+xAG,Top,Kieffer Moore,1.44
+Per 90 minutes_xG+xAG,Top,Neal Maupay,1.22
+Per 90 minutes_xG+xAG,Top,Erling Haaland,1.18
+Per 90 minutes_xG+xAG,Bottom,Aaron Ramsdale,0.0
+Per 90 minutes_xG+xAG,Bottom,Alisson,0.0
+Per 90 minutes_xG+xAG,Bottom,Alphonse Areola,0.0
+Per 90 minutes_npxG,Top,Kieffer Moore,1.23
+Per 90 minutes_npxG,Top,Neal Maupay,1.16
+Per 90 minutes_npxG,Top,Erling Haaland,0.81
+Per 90 minutes_npxG,Bottom,Aaron Cresswell,0.0
+Per 90 minutes_npxG,Bottom,Aaron Ramsdale,0.0
+Per 90 minutes_npxG,Bottom,Adam Smith,0.0
+Per 90 minutes_npxG+xAg,Top,Kieffer Moore,1.44
+Per 90 minutes_npxG+xAg,Top,Neal Maupay,1.22
+Per 90 minutes_npxG+xAg,Top,Sasa Kalajdzic,1.09
+Per 90 minutes_npxG+xAg,Bottom,Aaron Ramsdale,0.0
+Per 90 minutes_npxG+xAg,Bottom,Alisson,0.0
+Per 90 minutes_npxG+xAg,Bottom,Alphonse Areola,0.0
+Shooting_Standard_Gls,Top,Erling Haaland,27.0
+Shooting_Standard_Gls,Top,Cole Palmer,22.0
+Shooting_Standard_Gls,Top,Alexander Isak,21.0
+Shooting_Standard_Gls,Bottom,Aaron Cresswell,0.0
+Shooting_Standard_Gls,Bottom,Aaron Hickey,0.0
+Shooting_Standard_Gls,Bottom,Aaron Ramsdale,0.0
+Shooting_Standard_Sh,Top,Erling Haaland,113.0
+Shooting_Standard_Sh,Top,Darwin Núñez,107.0
+Shooting_Standard_Sh,Top,Mohamed Salah,107.0
+Shooting_Standard_Sh,Bottom,Aaron Cresswell,0.0
+Shooting_Standard_Sh,Bottom,Aaron Ramsdale,0.0
+Shooting_Standard_Sh,Bottom,Alisson,0.0
+Shooting_Standard_SoT,Top,Erling Haaland,50.0
+Shooting_Standard_SoT,Top,Phil Foden,48.0
+Shooting_Standard_SoT,Top,Mohamed Salah,47.0
+Shooting_Standard_SoT,Bottom,Aaron Cresswell,0.0
+Shooting_Standard_SoT,Bottom,Aaron Ramsdale,0.0
+Shooting_Standard_SoT,Bottom,Adam Smith,0.0
+Shooting_Standard_SoT%,Top,Amari'i Bell,100.0
+Shooting_Standard_SoT%,Top,Bénie Traoré,100.0
+Shooting_Standard_SoT%,Top,Chris Mepham,100.0
+Shooting_Standard_SoT%,Bottom,Adam Smith,0.0
+Shooting_Standard_SoT%,Bottom,Adam Webster,0.0
+Shooting_Standard_SoT%,Bottom,Andrew Omobamidele,0.0
+Shooting_Standard_Sh/90,Top,Enes Ünal,6.31
+Shooting_Standard_Sh/90,Top,Julio Enciso,5.31
+Shooting_Standard_Sh/90,Top,Kieffer Moore,5.0
+Shooting_Standard_Sh/90,Bottom,Aaron Cresswell,0.0
+Shooting_Standard_Sh/90,Bottom,Aaron Ramsdale,0.0
+Shooting_Standard_Sh/90,Bottom,Alisson,0.0
+Shooting_Standard_SoT/90,Top,Neal Maupay,3.24
+Shooting_Standard_SoT/90,Top,Matt Ritchie,2.81
+Shooting_Standard_SoT/90,Top,Enes Ünal,2.2
+Shooting_Standard_SoT/90,Bottom,Aaron Cresswell,0.0
+Shooting_Standard_SoT/90,Bottom,Aaron Ramsdale,0.0
+Shooting_Standard_SoT/90,Bottom,Adam Smith,0.0
+Shooting_Standard_G/Sh,Top,Hannibal Mejbri,1.0
+Shooting_Standard_G/Sh,Top,Tim Ream,1.0
+Shooting_Standard_G/Sh,Top,Leander Dendoncker,0.5
+Shooting_Standard_G/Sh,Bottom,Aaron Hickey,0.0
+Shooting_Standard_G/Sh,Bottom,Aaron Ramsey,0.0
+Shooting_Standard_G/Sh,Bottom,Aaron Wan-Bissaka,0.0
+Shooting_Standard_G/SoT,Top,Alfie Gilchrist,1.0
+Shooting_Standard_G/SoT,Top,Ben Mee,1.0
+Shooting_Standard_G/SoT,Top,Calvin Bassey,1.0
+Shooting_Standard_G/SoT,Bottom,Aaron Hickey,0.0
+Shooting_Standard_G/SoT,Bottom,Aaron Ramsey,0.0
+Shooting_Standard_G/SoT,Bottom,Aaron Wan-Bissaka,0.0
+Shooting_Standard_Dist,Top,Oliver Norwood,32.9
+Shooting_Standard_Dist,Top,Kyle Walker,29.4
+Shooting_Standard_Dist,Top,Moisés Caicedo,29.0
+Shooting_Standard_Dist,Bottom,Tim Ream,1.3
+Shooting_Standard_Dist,Bottom,Andrew Omobamidele,5.1
+Shooting_Standard_Dist,Bottom,Jonny Evans,5.4
+Shooting_Standard_FK,Top,James Ward-Prowse,16.0
+Shooting_Standard_FK,Top,Julián Álvarez,13.0
+Shooting_Standard_FK,Top,Eberechi Eze,12.0
+Shooting_Standard_FK,Bottom,Aaron Cresswell,0.0
+Shooting_Standard_FK,Bottom,Aaron Hickey,0.0
+Shooting_Standard_FK,Bottom,Aaron Ramsdale,0.0
+Shooting_Standard_PK,Top,Cole Palmer,9.0
+Shooting_Standard_PK,Top,Erling Haaland,7.0
+Shooting_Standard_PK,Top,Bukayo Saka,6.0
+Shooting_Standard_PK,Bottom,Aaron Cresswell,0.0
+Shooting_Standard_PK,Bottom,Aaron Hickey,0.0
+Shooting_Standard_PK,Bottom,Aaron Ramsdale,0.0
+Shooting_Standard_PKat,Top,Cole Palmer,9.0
+Shooting_Standard_PKat,Top,Erling Haaland,8.0
+Shooting_Standard_PKat,Top,Mohamed Salah,7.0
+Shooting_Standard_PKat,Bottom,Aaron Cresswell,0.0
+Shooting_Standard_PKat,Bottom,Aaron Hickey,0.0
+Shooting_Standard_PKat,Bottom,Aaron Ramsdale,0.0
+Shooting_Expected_xG,Top,Erling Haaland,29.2
+Shooting_Expected_xG,Top,Mohamed Salah,21.2
+Shooting_Expected_xG,Top,Alexander Isak,20.3
+Shooting_Expected_xG,Bottom,Aaron Cresswell,0.0
+Shooting_Expected_xG,Bottom,Aaron Ramsdale,0.0
+Shooting_Expected_xG,Bottom,Alisson,0.0
+Shooting_Expected_npxG,Top,Erling Haaland,22.9
+Shooting_Expected_npxG,Top,Nicolas Jackson,18.6
+Shooting_Expected_npxG,Top,Dominic Solanke,17.2
+Shooting_Expected_npxG,Bottom,Aaron Cresswell,0.0
+Shooting_Expected_npxG,Bottom,Aaron Ramsdale,0.0
+Shooting_Expected_npxG,Bottom,Alisson,0.0
+Shooting_Expected_npxG/Sh,Top,Tim Ream,0.96
+Shooting_Expected_npxG/Sh,Top,Shandon Baptiste,0.45
+Shooting_Expected_npxG/Sh,Top,Leander Dendoncker,0.37
+Shooting_Expected_npxG/Sh,Bottom,Benson Manuel,0.02
+Shooting_Expected_npxG/Sh,Bottom,Charlie Taylor,0.02
+Shooting_Expected_npxG/Sh,Bottom,George Baldock,0.02
+Shooting_Expected_G-xG,Top,Phil Foden,8.7
+Shooting_Expected_G-xG,Top,Callum Hudson-Odoi,5.3
+Shooting_Expected_G-xG,Top,Jean-Philippe Mateta,5.1
+Shooting_Expected_G-xG,Bottom,Dominic Calvert-Lewin,-5.9
+Shooting_Expected_G-xG,Bottom,Brennan Johnson,-5.3
+Shooting_Expected_G-xG,Bottom,Darwin Núñez,-5.3
+Shooting_Expected_np:G-xG,Top,Phil Foden,8.7
+Shooting_Expected_np:G-xG,Top,Callum Hudson-Odoi,5.3
+Shooting_Expected_np:G-xG,Top,Diogo Jota,4.7
+Shooting_Expected_np:G-xG,Bottom,Dominic Calvert-Lewin,-6.4
+Shooting_Expected_np:G-xG,Bottom,Brennan Johnson,-5.3
+Shooting_Expected_np:G-xG,Bottom,Nicolas Jackson,-4.6
+Passing_Total_Cmp,Top,Rodri,3365.0
+Passing_Total_Cmp,Top,Lewis Dunk,2977.0
+Passing_Total_Cmp,Top,Pascal Groß,2774.0
+Passing_Total_Cmp,Bottom,Leon Chiwome,19.0
+Passing_Total_Cmp,Bottom,Neal Maupay,22.0
+Passing_Total_Cmp,Bottom,Alex Iwobi,27.0
+Passing_Total_Att,Top,Rodri,3656.0
+Passing_Total_Att,Top,Lewis Dunk,3233.0
+Passing_Total_Att,Top,Pascal Groß,3223.0
+Passing_Total_Att,Bottom,Leon Chiwome,22.0
+Passing_Total_Att,Bottom,Neal Maupay,26.0
+Passing_Total_Att,Bottom,Hannibal Mejbri,38.0
+Passing_Total_Cmp%,Top,Thiago Silva,94.7
+Passing_Total_Cmp%,Top,David Ozoh,94.1
+Passing_Total_Cmp%,Top,Mateo Kovačić,94.0
+Passing_Total_Cmp%,Bottom,Ivo Grbić,49.7
+Passing_Total_Cmp%,Bottom,William Osula,52.7
+Passing_Total_Cmp%,Bottom,Ivan Toney,53.5
+Passing_Total_TotDist,Top,Rodri,57256.0
+Passing_Total_TotDist,Top,Lewis Dunk,50791.0
+Passing_Total_TotDist,Top,Virgil van Dijk,49290.0
+Passing_Total_TotDist,Bottom,Leon Chiwome,244.0
+Passing_Total_TotDist,Bottom,Kieffer Moore,272.0
+Passing_Total_TotDist,Bottom,Neal Maupay,353.0
+Passing_Total_PrgDist,Top,Jordan Pickford,26388.0
+Passing_Total_PrgDist,Top,Mark Flekken,22385.0
+Passing_Total_PrgDist,Top,Thomas Kaminski,22188.0
+Passing_Total_PrgDist,Bottom,Neal Maupay,14.0
+Passing_Total_PrgDist,Bottom,Nathan Fraser,45.0
+Passing_Total_PrgDist,Bottom,Leon Chiwome,59.0
+Passing_Shor_Cmp,Top,Rodri,1676.0
+Passing_Shor_Cmp,Top,Pascal Groß,1583.0
+Passing_Shor_Cmp,Top,Lewis Dunk,1343.0
+Passing_Shor_Cmp,Bottom,Thomas Strakosha,6.0
+Passing_Shor_Cmp,Bottom,Mark Travers,10.0
+Passing_Shor_Cmp,Bottom,Leon Chiwome,12.0
+Passing_Shor_Att,Top,Rodri,1774.0
+Passing_Shor_Att,Top,Pascal Groß,1674.0
+Passing_Shor_Att,Top,Lewis Dunk,1382.0
+Passing_Shor_Att,Bottom,Thomas Strakosha,6.0
+Passing_Shor_Att,Bottom,Mark Travers,10.0
+Passing_Shor_Att,Bottom,Leon Chiwome,13.0
+Passing_Shor_Cmp%,Top,Aaron Ramsdale,100.0
+Passing_Shor_Cmp%,Top,Benson Manuel,100.0
+Passing_Shor_Cmp%,Top,Caoimhín Kelleher,100.0
+Passing_Shor_Cmp%,Bottom,William Osula,58.9
+Passing_Shor_Cmp%,Bottom,Youssef Chermiti,59.4
+Passing_Shor_Cmp%,Bottom,Ivan Toney,61.6
+Passing_Medium_Cmp,Top,Virgil van Dijk,1343.0
+Passing_Medium_Cmp,Top,Lewis Dunk,1340.0
+Passing_Medium_Cmp,Top,William Saliba,1298.0
+Passing_Medium_Cmp,Bottom,Kieffer Moore,4.0
+Passing_Medium_Cmp,Bottom,Leon Chiwome,6.0
+Passing_Medium_Cmp,Bottom,Maxwel Cornet,6.0
+Passing_Medium_Att,Top,Lewis Dunk,1417.0
+Passing_Medium_Att,Top,Virgil van Dijk,1412.0
+Passing_Medium_Att,Top,William Saliba,1373.0
+Passing_Medium_Att,Bottom,Leon Chiwome,6.0
+Passing_Medium_Att,Bottom,Kieffer Moore,8.0
+Passing_Medium_Att,Bottom,Maxwel Cornet,8.0
+Passing_Medium_Cmp%,Top,Daniel Bentley,100.0
+Passing_Medium_Cmp%,Top,David Ozoh,100.0
+Passing_Medium_Cmp%,Top,Leon Chiwome,100.0
+Passing_Medium_Cmp%,Bottom,William Osula,40.0
+Passing_Medium_Cmp%,Bottom,Rhian Brewster,45.5
+Passing_Medium_Cmp%,Bottom,Dominic Calvert-Lewin,49.5
+Passing_Long_Cmp,Top,Jordan Pickford,461.0
+Passing_Long_Cmp,Top,Mark Flekken,394.0
+Passing_Long_Cmp,Top,Thomas Kaminski,362.0
+Passing_Long_Cmp,Bottom,David Ozoh,0.0
+Passing_Long_Cmp,Bottom,Facundo Pellistri,0.0
+Passing_Long_Cmp,Bottom,Kieffer Moore,0.0
+Passing_Long_Att,Top,Jordan Pickford,1031.0
+Passing_Long_Att,Top,Thomas Kaminski,937.0
+Passing_Long_Att,Top,Mark Flekken,832.0
+Passing_Long_Att,Bottom,David Ozoh,0.0
+Passing_Long_Att,Bottom,Facundo Pellistri,0.0
+Passing_Long_Att,Bottom,Kieffer Moore,0.0
+Passing_Long_Cmp%,Top,Brennan Johnson,100.0
+Passing_Long_Cmp%,Top,Bénie Traoré,100.0
+Passing_Long_Cmp%,Top,Carlos Vinícius,100.0
+Passing_Long_Cmp%,Bottom,Maxwel Cornet,0.0
+Passing_Long_Cmp%,Bottom,Danny Ings,12.5
+Passing_Long_Cmp%,Bottom,Jaidon Anthony,16.7
+Passing_Expected_Ast,Top,Ollie Watkins,13.0
+Passing_Expected_Ast,Top,Cole Palmer,11.0
+Passing_Expected_Ast,Top,Anthony Gordon,10.0
+Passing_Expected_Ast,Bottom,Aaron Cresswell,0.0
+Passing_Expected_Ast,Bottom,Aaron Hickey,0.0
+Passing_Expected_Ast,Bottom,Aaron Ramsdale,0.0
+Passing_Expected_xAG,Top,Bruno Fernandes,11.8
+Passing_Expected_xAG,Top,Mohamed Salah,11.8
+Passing_Expected_xAG,Top,Son Heung-min,11.8
+Passing_Expected_xAG,Bottom,Aaron Ramsdale,0.0
+Passing_Expected_xAG,Bottom,Alfie Gilchrist,0.0
+Passing_Expected_xAG,Bottom,Alisson,0.0
+Passing_Expected_xA,Top,Martin Ødegaard,11.2
+Passing_Expected_xA,Top,Bukayo Saka,11.0
+Passing_Expected_xA,Top,Bruno Fernandes,10.2
+Passing_Expected_xA,Bottom,Aaron Ramsdale,0.0
+Passing_Expected_xA,Bottom,Alfie Gilchrist,0.0
+Passing_Expected_xA,Bottom,Alisson,0.0
+Passing_Expected_A-xAG,Top,Ollie Watkins,5.7
+Passing_Expected_A-xAG,Top,Rodri,5.1
+Passing_Expected_A-xAG,Top,Pedro Neto,4.6
+Passing_Expected_A-xAG,Bottom,Dejan Kulusevski,-4.7
+Passing_Expected_A-xAG,Bottom,Bruno Fernandes,-3.8
+Passing_Expected_A-xAG,Bottom,Dominik Szoboszlai,-3.8
+Passing_Expected_KP,Top,Bruno Fernandes,114.0
+Passing_Expected_KP,Top,Pascal Groß,103.0
+Passing_Expected_KP,Top,Martin Ødegaard,102.0
+Passing_Expected_KP,Bottom,Aaron Ramsdale,0.0
+Passing_Expected_KP,Bottom,Alfie Gilchrist,0.0
+Passing_Expected_KP,Bottom,Alphonse Areola,0.0
+Passing_Expected_1/3,Top,Rodri,378.0
+Passing_Expected_1/3,Top,Pascal Groß,242.0
+Passing_Expected_1/3,Top,Declan Rice,240.0
+Passing_Expected_1/3,Bottom,Ionuț Radu,0.0
+Passing_Expected_1/3,Bottom,Lewis Dobbin,0.0
+Passing_Expected_1/3,Bottom,Maxwel Cornet,0.0
+Passing_Expected_PPA,Top,Martin Ødegaard,130.0
+Passing_Expected_PPA,Top,Bruno Fernandes,89.0
+Passing_Expected_PPA,Top,Bukayo Saka,73.0
+Passing_Expected_PPA,Bottom,Aaron Ramsdale,0.0
+Passing_Expected_PPA,Bottom,Alisson,0.0
+Passing_Expected_PPA,Bottom,Alphonse Areola,0.0
+Passing_Expected_CrsPA,Top,Pascal Groß,27.0
+Passing_Expected_CrsPA,Top,Antonee Robinson,26.0
+Passing_Expected_CrsPA,Top,Alfie Doughty,24.0
+Passing_Expected_CrsPA,Bottom,Aaron Cresswell,0.0
+Passing_Expected_CrsPA,Bottom,Aaron Hickey,0.0
+Passing_Expected_CrsPA,Bottom,Aaron Ramsdale,0.0
+Passing_Expected_PrgP,Top,Rodri,376.0
+Passing_Expected_PrgP,Top,Martin Ødegaard,344.0
+Passing_Expected_PrgP,Top,Pascal Groß,302.0
+Passing_Expected_PrgP,Bottom,Bernd Leno,0.0
+Passing_Expected_PrgP,Bottom,Daniel Bentley,0.0
+Passing_Expected_PrgP,Bottom,Dean Henderson,0.0
+Pass Types_Pass Types_Live,Top,Rodri,3572.0
+Pass Types_Pass Types_Live,Top,Lewis Dunk,3005.0
+Pass Types_Pass Types_Live,Top,Pascal Groß,2903.0
+Pass Types_Pass Types_Live,Bottom,Leon Chiwome,18.0
+Pass Types_Pass Types_Live,Bottom,Neal Maupay,23.0
+Pass Types_Pass Types_Live,Bottom,Alex Iwobi,34.0
+Pass Types_Pass Types_Dead,Top,Jordan Pickford,496.0
+Pass Types_Pass Types_Dead,Top,Thomas Kaminski,493.0
+Pass Types_Pass Types_Dead,Top,Alfie Doughty,489.0
+Pass Types_Pass Types_Dead,Bottom,Calum Chambers,0.0
+Pass Types_Pass Types_Dead,Bottom,Carney Chukwuemeka,0.0
+Pass Types_Pass Types_Dead,Bottom,Cheikhou Kouyaté,0.0
+Pass Types_Pass Types_Pass Types_Pass Types_FK,Top,Alfie Doughty,151.0
+Pass Types_Pass Types_Pass Types_Pass Types_FK,Top,Bruno Fernandes,151.0
+Pass Types_Pass Types_Pass Types_Pass Types_FK,Top,Andreas Pereira,148.0
+Pass Types_Pass Types_Pass Types_Pass Types_FK,Bottom,Aaron Hickey,0.0
+Pass Types_Pass Types_Pass Types_Pass Types_FK,Bottom,Aaron Ramsdale,0.0
+Pass Types_Pass Types_Pass Types_Pass Types_FK,Bottom,Aaron Ramsey,0.0
+Pass Types_Pass Types_TB,Top,Martin Ødegaard,39.0
+Pass Types_Pass Types_TB,Top,Bruno Fernandes,30.0
+Pass Types_Pass Types_TB,Top,Lucas Paquetá,30.0
+Pass Types_Pass Types_TB,Bottom,Aaron Cresswell,0.0
+Pass Types_Pass Types_TB,Bottom,Aaron Ramsdale,0.0
+Pass Types_Pass Types_TB,Bottom,Aaron Wan-Bissaka,0.0
+Pass Types_Pass Types_Sw,Top,Fabian Schär,41.0
+Pass Types_Pass Types_Sw,Top,Rodri,36.0
+Pass Types_Pass Types_Sw,Top,Trent Alexander-Arnold,32.0
+Pass Types_Pass Types_Sw,Bottom,Aaron Ramsdale,0.0
+Pass Types_Pass Types_Sw,Bottom,Aaron Ramsey,0.0
+Pass Types_Pass Types_Sw,Bottom,Adam Lallana,0.0
+Pass Types_Pass Types_Crs,Top,Alfie Doughty,340.0
+Pass Types_Pass Types_Crs,Top,Pascal Groß,238.0
+Pass Types_Pass Types_Crs,Top,Dwight McNeil,229.0
+Pass Types_Pass Types_Crs,Bottom,Aaron Ramsdale,0.0
+Pass Types_Pass Types_Crs,Bottom,Alisson,0.0
+Pass Types_Pass Types_Crs,Bottom,Alphonse Areola,0.0
+Pass Types_Pass Types_TI,Top,Tyrick Mitchell,347.0
+Pass Types_Pass Types_TI,Top,Vladimír Coufal,319.0
+Pass Types_Pass Types_TI,Top,Pedro Porro,295.0
+Pass Types_Pass Types_TI,Bottom,Aaron Ramsdale,0.0
+Pass Types_Pass Types_TI,Bottom,Abdoulaye Doucouré,0.0
+Pass Types_Pass Types_TI,Bottom,Adam Lallana,0.0
+Pass Types_Pass Types_CK,Top,Alfie Doughty,151.0
+Pass Types_Pass Types_CK,Top,Bruno Fernandes,151.0
+Pass Types_Pass Types_CK,Top,Andreas Pereira,148.0
+Pass Types_Pass Types_CK,Bottom,Aaron Hickey,0.0
+Pass Types_Pass Types_CK,Bottom,Aaron Ramsdale,0.0
+Pass Types_Pass Types_CK,Bottom,Aaron Ramsey,0.0
+Pass Types_Corner Kicks_In,Top,Bukayo Saka,99.0
+Pass Types_Corner Kicks_In,Top,Lewis Cook,81.0
+Pass Types_Corner Kicks_In,Top,Alfie Doughty,66.0
+Pass Types_Corner Kicks_In,Bottom,Aaron Hickey,0.0
+Pass Types_Corner Kicks_In,Bottom,Aaron Ramsdale,0.0
+Pass Types_Corner Kicks_In,Bottom,Aaron Ramsey,0.0
+Pass Types_Corner Kicks_Out,Top,Alfie Doughty,80.0
+Pass Types_Corner Kicks_Out,Top,Andreas Pereira,74.0
+Pass Types_Corner Kicks_Out,Top,Pascal Groß,57.0
+Pass Types_Corner Kicks_Out,Bottom,Aaron Hickey,0.0
+Pass Types_Corner Kicks_Out,Bottom,Aaron Ramsdale,0.0
+Pass Types_Corner Kicks_Out,Bottom,Aaron Ramsey,0.0
+Pass Types_Corner Kicks_Str,Top,Pablo Sarabia,10.0
+Pass Types_Corner Kicks_Str,Top,Bruno Fernandes,8.0
+Pass Types_Corner Kicks_Str,Top,Kieran Trippier,8.0
+Pass Types_Corner Kicks_Str,Bottom,Aaron Cresswell,0.0
+Pass Types_Corner Kicks_Str,Bottom,Aaron Hickey,0.0
+Pass Types_Corner Kicks_Str,Bottom,Aaron Ramsdale,0.0
+Pass Types_Outcomes_Cmp,Top,Rodri,3365.0
+Pass Types_Outcomes_Cmp,Top,Lewis Dunk,2977.0
+Pass Types_Outcomes_Cmp,Top,Pascal Groß,2774.0
+Pass Types_Outcomes_Cmp,Bottom,Leon Chiwome,19.0
+Pass Types_Outcomes_Cmp,Bottom,Neal Maupay,22.0
+Pass Types_Outcomes_Cmp,Bottom,Alex Iwobi,27.0
+Pass Types_Outcomes_Off,Top,Bruno Fernandes,23.0
+Pass Types_Outcomes_Off,Top,Enzo Fernández,17.0
+Pass Types_Outcomes_Off,Top,Martin Ødegaard,16.0
+Pass Types_Outcomes_Off,Bottom,Aaron Cresswell,0.0
+Pass Types_Outcomes_Off,Bottom,Aaron Hickey,0.0
+Pass Types_Outcomes_Off,Bottom,Aaron Ramsdale,0.0
+Pass Types_Outcomes_Blocks,Top,Tyrick Mitchell,70.0
+Pass Types_Outcomes_Blocks,Top,Antonee Robinson,68.0
+Pass Types_Outcomes_Blocks,Top,Pedro Porro,68.0
+Pass Types_Outcomes_Blocks,Bottom,Alfie Gilchrist,0.0
+Pass Types_Outcomes_Blocks,Bottom,Alphonse Areola,0.0
+Pass Types_Outcomes_Blocks,Bottom,Arijanet Muric,0.0
+Goal and Shot Creation_SCA_SCA,Top,Martin Ødegaard,220.0
+Goal and Shot Creation_SCA_SCA,Top,Bruno Fernandes,210.0
+Goal and Shot Creation_SCA_SCA,Top,Bukayo Saka,188.0
+Goal and Shot Creation_SCA_SCA,Bottom,Aaron Ramsdale,0.0
+Goal and Shot Creation_SCA_SCA,Bottom,Angelo Ogbonna,0.0
+Goal and Shot Creation_SCA_SCA,Bottom,David Ozoh,0.0
+Goal and Shot Creation_SCA_SCA90,Top,Manor Solomon,8.59
+Goal and Shot Creation_SCA_SCA90,Top,Alex Iwobi,7.77
+Goal and Shot Creation_SCA_SCA90,Top,Kevin De Bruyne,7.36
+Goal and Shot Creation_SCA_SCA90,Bottom,Aaron Ramsdale,0.0
+Goal and Shot Creation_SCA_SCA90,Bottom,Angelo Ogbonna,0.0
+Goal and Shot Creation_SCA_SCA90,Bottom,David Ozoh,0.0
+Goal and Shot Creation_SCA Types_PassLive,Top,Martin Ødegaard,178.0
+Goal and Shot Creation_SCA Types_PassLive,Top,Bruno Fernandes,143.0
+Goal and Shot Creation_SCA Types_PassLive,Top,Bukayo Saka,137.0
+Goal and Shot Creation_SCA Types_PassLive,Bottom,Aaron Ramsdale,0.0
+Goal and Shot Creation_SCA Types_PassLive,Bottom,Angelo Ogbonna,0.0
+Goal and Shot Creation_SCA Types_PassLive,Bottom,David Ozoh,0.0
+Goal and Shot Creation_SCA Types_PassDead,Top,Pascal Groß,54.0
+Goal and Shot Creation_SCA Types_PassDead,Top,James Ward-Prowse,51.0
+Goal and Shot Creation_SCA Types_PassDead,Top,Andreas Pereira,48.0
+Goal and Shot Creation_SCA Types_PassDead,Bottom,Aaron Hickey,0.0
+Goal and Shot Creation_SCA Types_PassDead,Bottom,Aaron Ramsdale,0.0
+Goal and Shot Creation_SCA Types_PassDead,Bottom,Aaron Ramsey,0.0
+Goal and Shot Creation_SCA Types_TO,Top,Mohammed Kudus,25.0
+Goal and Shot Creation_SCA Types_TO,Top,Nicolas Jackson,18.0
+Goal and Shot Creation_SCA Types_TO,Top,Jeremy Doku,17.0
+Goal and Shot Creation_SCA Types_TO,Bottom,Aaron Cresswell,0.0
+Goal and Shot Creation_SCA Types_TO,Bottom,Aaron Hickey,0.0
+Goal and Shot Creation_SCA Types_TO,Bottom,Aaron Ramsdale,0.0
+Goal and Shot Creation_SCA Types_Sh,Top,Mohamed Salah,21.0
+Goal and Shot Creation_SCA Types_Sh,Top,Ollie Watkins,18.0
+Goal and Shot Creation_SCA Types_Sh,Top,Luis Díaz,15.0
+Goal and Shot Creation_SCA Types_Sh,Bottom,Aaron Cresswell,0.0
+Goal and Shot Creation_SCA Types_Sh,Bottom,Aaron Hickey,0.0
+Goal and Shot Creation_SCA Types_Sh,Bottom,Aaron Ramsdale,0.0
+Goal and Shot Creation_SCA Types_Fld,Top,Anthony Gordon,13.0
+Goal and Shot Creation_SCA Types_Fld,Top,Alejandro Garnacho,12.0
+Goal and Shot Creation_SCA Types_Fld,Top,Jordan Ayew,12.0
+Goal and Shot Creation_SCA Types_Fld,Bottom,Aaron Ramsdale,0.0
+Goal and Shot Creation_SCA Types_Fld,Bottom,Aaron Ramsey,0.0
+Goal and Shot Creation_SCA Types_Fld,Bottom,Adam Webster,0.0
+Goal and Shot Creation_SCA Types_Def,Top,Bruno Guimarães,6.0
+Goal and Shot Creation_SCA Types_Def,Top,Conor Gallagher,6.0
+Goal and Shot Creation_SCA Types_Def,Top,Idrissa Gana Gueye,6.0
+Goal and Shot Creation_SCA Types_Def,Bottom,Aaron Cresswell,0.0
+Goal and Shot Creation_SCA Types_Def,Bottom,Aaron Hickey,0.0
+Goal and Shot Creation_SCA Types_Def,Bottom,Aaron Ramsdale,0.0
+Goal and Shot Creation_GCA_GCA,Top,Anthony Gordon,29.0
+Goal and Shot Creation_GCA_GCA,Top,Cole Palmer,26.0
+Goal and Shot Creation_GCA_GCA,Top,Ollie Watkins,26.0
+Goal and Shot Creation_GCA_GCA,Bottom,Aaron Hickey,0.0
+Goal and Shot Creation_GCA_GCA,Bottom,Aaron Ramsdale,0.0
+Goal and Shot Creation_GCA_GCA,Bottom,Aaron Ramsey,0.0
+Goal and Shot Creation_GCA_GCA90,Top,Oscar Bobb,1.79
+Goal and Shot Creation_GCA_GCA90,Top,Ivan Perišić,1.75
+Goal and Shot Creation_GCA_GCA90,Top,Carney Chukwuemeka,1.59
+Goal and Shot Creation_GCA_GCA90,Bottom,Aaron Hickey,0.0
+Goal and Shot Creation_GCA_GCA90,Bottom,Aaron Ramsdale,0.0
+Goal and Shot Creation_GCA_GCA90,Bottom,Aaron Ramsey,0.0
+Goal and Shot Creation_GCA Types_PassLive,Top,Cole Palmer,20.0
+Goal and Shot Creation_GCA Types_PassLive,Top,Martin Ødegaard,18.0
+Goal and Shot Creation_GCA Types_PassLive,Top,Rodri,17.0
+Goal and Shot Creation_GCA Types_PassLive,Bottom,Aaron Hickey,0.0
+Goal and Shot Creation_GCA Types_PassLive,Bottom,Aaron Ramsdale,0.0
+Goal and Shot Creation_GCA Types_PassLive,Bottom,Aaron Ramsey,0.0
+Goal and Shot Creation_GCA Types_PassDead,Top,James Ward-Prowse,7.0
+Goal and Shot Creation_GCA Types_PassDead,Top,Alfie Doughty,5.0
+Goal and Shot Creation_GCA Types_PassDead,Top,Conor Gallagher,5.0
+Goal and Shot Creation_GCA Types_PassDead,Bottom,Aaron Cresswell,0.0
+Goal and Shot Creation_GCA Types_PassDead,Bottom,Aaron Hickey,0.0
+Goal and Shot Creation_GCA Types_PassDead,Bottom,Aaron Ramsdale,0.0
+Goal and Shot Creation_GCA Types_TO,Top,Anthony Gordon,5.0
+Goal and Shot Creation_GCA Types_TO,Top,Bruno Guimarães,4.0
+Goal and Shot Creation_GCA Types_TO,Top,Diogo Jota,4.0
+Goal and Shot Creation_GCA Types_TO,Bottom,Aaron Cresswell,0.0
+Goal and Shot Creation_GCA Types_TO,Bottom,Aaron Hickey,0.0
+Goal and Shot Creation_GCA Types_TO,Bottom,Aaron Ramsdale,0.0
+Goal and Shot Creation_GCA Types_Sh,Top,Ollie Watkins,7.0
+Goal and Shot Creation_GCA Types_Sh,Top,Anthony Gordon,4.0
+Goal and Shot Creation_GCA Types_Sh,Top,Carlton Morris,3.0
+Goal and Shot Creation_GCA Types_Sh,Bottom,Aaron Cresswell,0.0
+Goal and Shot Creation_GCA Types_Sh,Bottom,Aaron Hickey,0.0
+Goal and Shot Creation_GCA Types_Sh,Bottom,Aaron Ramsdale,0.0
+Goal and Shot Creation_GCA Types_Fld,Top,Anthony Gordon,5.0
+Goal and Shot Creation_GCA Types_Fld,Top,Chiedozie Ogbene,4.0
+Goal and Shot Creation_GCA Types_Fld,Top,Eddie Nketiah,3.0
+Goal and Shot Creation_GCA Types_Fld,Bottom,Aaron Cresswell,0.0
+Goal and Shot Creation_GCA Types_Fld,Bottom,Aaron Hickey,0.0
+Goal and Shot Creation_GCA Types_Fld,Bottom,Aaron Ramsdale,0.0
+Goal and Shot Creation_GCA Types_Def,Top,Antony,2.0
+Goal and Shot Creation_GCA Types_Def,Top,Cole Palmer,2.0
+Goal and Shot Creation_GCA Types_Def,Top,James Garner,2.0
+Goal and Shot Creation_GCA Types_Def,Bottom,Aaron Cresswell,0.0
+Goal and Shot Creation_GCA Types_Def,Bottom,Aaron Hickey,0.0
+Goal and Shot Creation_GCA Types_Def,Bottom,Aaron Ramsdale,0.0
+Defensive Actions_Tackles_Tkl,Top,João Palhinha,152.0
+Defensive Actions_Tackles_Tkl,Top,João Gomes,128.0
+Defensive Actions_Tackles_Tkl,Top,Vinicius Souza,125.0
+Defensive Actions_Tackles_Tkl,Bottom,Aaron Ramsdale,0.0
+Defensive Actions_Tackles_Tkl,Bottom,Alisson,0.0
+Defensive Actions_Tackles_Tkl,Bottom,Bernd Leno,0.0
+Defensive Actions_Tackles_TklW,Top,Vinicius Souza,76.0
+Defensive Actions_Tackles_TklW,Top,João Palhinha,75.0
+Defensive Actions_Tackles_TklW,Top,João Gomes,74.0
+Defensive Actions_Tackles_TklW,Bottom,Aaron Ramsdale,0.0
+Defensive Actions_Tackles_TklW,Bottom,Alex Iwobi,0.0
+Defensive Actions_Tackles_TklW,Bottom,Alexander Isak,0.0
+Defensive Actions_Tackles_Def 3rd,Top,João Palhinha,80.0
+Defensive Actions_Tackles_Def 3rd,Top,Tyrick Mitchell,75.0
+Defensive Actions_Tackles_Def 3rd,Top,João Gomes,67.0
+Defensive Actions_Tackles_Def 3rd,Bottom,Aaron Ramsdale,0.0
+Defensive Actions_Tackles_Def 3rd,Bottom,Alisson,0.0
+Defensive Actions_Tackles_Def 3rd,Bottom,Armando Broja,0.0
+Defensive Actions_Tackles_Mid 3rd,Top,João Palhinha,60.0
+Defensive Actions_Tackles_Mid 3rd,Top,Vinicius Souza,51.0
+Defensive Actions_Tackles_Mid 3rd,Top,Alexis Mac Allister,50.0
+Defensive Actions_Tackles_Mid 3rd,Bottom,Aaron Ramsdale,0.0
+Defensive Actions_Tackles_Mid 3rd,Bottom,Alex Iwobi,0.0
+Defensive Actions_Tackles_Mid 3rd,Bottom,Alfie Gilchrist,0.0
+Defensive Actions_Tackles_Att 3rd,Top,Dejan Kulusevski,23.0
+Defensive Actions_Tackles_Att 3rd,Top,Bukayo Saka,20.0
+Defensive Actions_Tackles_Att 3rd,Top,Conor Gallagher,17.0
+Defensive Actions_Tackles_Att 3rd,Bottom,Aaron Ramsdale,0.0
+Defensive Actions_Tackles_Att 3rd,Bottom,Adam Lallana,0.0
+Defensive Actions_Tackles_Att 3rd,Bottom,Alfie Gilchrist,0.0
+Defensive Actions_Challenges_Tkl,Top,João Palhinha,103.0
+Defensive Actions_Challenges_Tkl,Top,Pedro Porro,62.0
+Defensive Actions_Challenges_Tkl,Top,Alexis Mac Allister,59.0
+Defensive Actions_Challenges_Tkl,Bottom,Aaron Ramsdale,0.0
+Defensive Actions_Challenges_Tkl,Bottom,Adam Lallana,0.0
+Defensive Actions_Challenges_Tkl,Bottom,Alisson,0.0
+Defensive Actions_Challenges_Att,Top,João Palhinha,152.0
+Defensive Actions_Challenges_Att,Top,Alexis Mac Allister,125.0
+Defensive Actions_Challenges_Att,Top,Pedro Porro,120.0
+Defensive Actions_Challenges_Att,Bottom,Aaron Ramsdale,0.0
+Defensive Actions_Challenges_Att,Bottom,Benson Manuel,0.0
+Defensive Actions_Challenges_Att,Bottom,Bernd Leno,0.0
+Defensive Actions_Challenges_Tkl%,Top,Aaron Hickey,100.0
+Defensive Actions_Challenges_Tkl%,Top,André Onana,100.0
+Defensive Actions_Challenges_Tkl%,Top,Anthony Martial,100.0
+Defensive Actions_Challenges_Tkl%,Bottom,Adam Lallana,0.0
+Defensive Actions_Challenges_Tkl%,Bottom,Alisson,0.0
+Defensive Actions_Challenges_Tkl%,Bottom,Anass Zaroury,0.0
+Defensive Actions_Challenges_Lost,Top,Mathias Jensen,69.0
+Defensive Actions_Challenges_Lost,Top,Alexis Mac Allister,66.0
+Defensive Actions_Challenges_Lost,Top,Trent Alexander-Arnold,60.0
+Defensive Actions_Challenges_Lost,Bottom,Aaron Hickey,0.0
+Defensive Actions_Challenges_Lost,Bottom,Aaron Ramsdale,0.0
+Defensive Actions_Challenges_Lost,Bottom,André Onana,0.0
+Defensive Actions_Blocks_Blocks,Top,James Tarkowski,82.0
+Defensive Actions_Blocks_Blocks,Top,Casemiro,74.0
+Defensive Actions_Blocks_Blocks,Top,Alexis Mac Allister,65.0
+Defensive Actions_Blocks_Blocks,Bottom,Aaron Ramsdale,0.0
+Defensive Actions_Blocks_Blocks,Bottom,Alisson,0.0
+Defensive Actions_Blocks_Blocks,Bottom,Alphonse Areola,0.0
+Defensive Actions_Blocks_Sh,Top,James Tarkowski,56.0
+Defensive Actions_Blocks_Sh,Top,Craig Dawson,39.0
+Defensive Actions_Blocks_Sh,Top,Fabian Schär,38.0
+Defensive Actions_Blocks_Sh,Bottom,Aaron Ramsdale,0.0
+Defensive Actions_Blocks_Sh,Bottom,Adama Traoré,0.0
+Defensive Actions_Blocks_Sh,Bottom,Alex Iwobi,0.0
+Defensive Actions_Blocks_Pass,Top,Alexis Mac Allister,57.0
+Defensive Actions_Blocks_Pass,Top,Tyrick Mitchell,53.0
+Defensive Actions_Blocks_Pass,Top,Antonee Robinson,48.0
+Defensive Actions_Blocks_Pass,Bottom,Aaron Ramsdale,0.0
+Defensive Actions_Blocks_Pass,Bottom,Alisson,0.0
+Defensive Actions_Blocks_Pass,Bottom,Alphonse Areola,0.0
+Defensive Actions_Blocks_Int,Top,Antonee Robinson,80.0
+Defensive Actions_Blocks_Int,Top,Lewis Cook,65.0
+Defensive Actions_Blocks_Int,Top,Teden Mengi,57.0
+Defensive Actions_Blocks_Int,Bottom,Aaron Ramsdale,0.0
+Defensive Actions_Blocks_Int,Bottom,Alisson,0.0
+Defensive Actions_Blocks_Int,Bottom,Anass Zaroury,0.0
+Defensive Actions_Blocks_Tkl + Int,Top,João Palhinha,198.0
+Defensive Actions_Blocks_Tkl + Int,Top,Antonee Robinson,173.0
+Defensive Actions_Blocks_Tkl + Int,Top,Vinicius Souza,157.0
+Defensive Actions_Blocks_Tkl + Int,Bottom,Aaron Ramsdale,0.0
+Defensive Actions_Blocks_Tkl + Int,Bottom,Alisson,0.0
+Defensive Actions_Blocks_Tkl + Int,Bottom,Bernd Leno,0.0
+Defensive Actions_Blocks_Clr,Top,Joachim Andersen,207.0
+Defensive Actions_Blocks_Clr,Top,James Tarkowski,191.0
+Defensive Actions_Blocks_Clr,Top,Murillo,188.0
+Defensive Actions_Blocks_Clr,Bottom,Alex Iwobi,0.0
+Defensive Actions_Blocks_Clr,Bottom,Arnaut Danjuma,0.0
+Defensive Actions_Blocks_Clr,Bottom,Benson Manuel,0.0
+Defensive Actions_Blocks_Err,Top,Wes Foderingham,6.0
+Defensive Actions_Blocks_Err,Top,David Raya,5.0
+Defensive Actions_Blocks_Err,Top,Destiny Udogie,5.0
+Defensive Actions_Blocks_Err,Bottom,Aaron Cresswell,0.0
+Defensive Actions_Blocks_Err,Bottom,Aaron Hickey,0.0
+Defensive Actions_Blocks_Err,Bottom,Aaron Ramsey,0.0
+Possession_Touches_Touches,Top,Rodri,3988.0
+Possession_Touches_Touches,Top,Pascal Groß,3534.0
+Possession_Touches_Touches,Top,Lewis Dunk,3481.0
+Possession_Touches_Touches,Bottom,Leon Chiwome,39.0
+Possession_Touches_Touches,Bottom,Neal Maupay,40.0
+Possession_Touches_Touches,Bottom,John Fleck,49.0
+Possession_Touches_Def Pen,Top,Bernd Leno,1275.0
+Possession_Touches_Def Pen,Top,Mark Flekken,1268.0
+Possession_Touches_Def Pen,Top,Guglielmo Vicario,1252.0
+Possession_Touches_Def Pen,Bottom,Alex Iwobi,0.0
+Possession_Touches_Def Pen,Bottom,Benson Manuel,0.0
+Possession_Touches_Def Pen,Bottom,Kieffer Moore,0.0
+Possession_Touches_Def 3rd,Top,Lewis Dunk,1811.0
+Possession_Touches_Def 3rd,Top,Guglielmo Vicario,1664.0
+Possession_Touches_Def 3rd,Top,Bernd Leno,1645.0
+Possession_Touches_Def 3rd,Bottom,Neal Maupay,1.0
+Possession_Touches_Def 3rd,Bottom,Kieffer Moore,2.0
+Possession_Touches_Def 3rd,Bottom,Alex Iwobi,5.0
+Possession_Touches_Mid 3rd,Top,Rodri,2337.0
+Possession_Touches_Mid 3rd,Top,Virgil van Dijk,1757.0
+Possession_Touches_Mid 3rd,Top,William Saliba,1720.0
+Possession_Touches_Mid 3rd,Bottom,Dean Henderson,0.0
+Possession_Touches_Mid 3rd,Bottom,Ionuț Radu,0.0
+Possession_Touches_Mid 3rd,Bottom,Mark Travers,0.0
+Possession_Touches_Att 3rd,Top,Bukayo Saka,1310.0
+Possession_Touches_Att 3rd,Top,Phil Foden,1211.0
+Possession_Touches_Att 3rd,Top,Martin Ødegaard,1173.0
+Possession_Touches_Att 3rd,Bottom,Aaron Ramsdale,0.0
+Possession_Touches_Att 3rd,Bottom,Alisson,0.0
+Possession_Touches_Att 3rd,Bottom,Alphonse Areola,0.0
+Possession_Touches_Att Pen,Top,Bukayo Saka,271.0
+Possession_Touches_Att Pen,Top,Alejandro Garnacho,248.0
+Possession_Touches_Att Pen,Top,Mohamed Salah,241.0
+Possession_Touches_Att Pen,Bottom,Aaron Ramsdale,0.0
+Possession_Touches_Att Pen,Bottom,Alisson,0.0
+Possession_Touches_Att Pen,Bottom,Alphonse Areola,0.0
+Possession_Touches_Live,Top,Rodri,3988.0
+Possession_Touches_Live,Top,Pascal Groß,3533.0
+Possession_Touches_Live,Top,Lewis Dunk,3481.0
+Possession_Touches_Live,Bottom,Leon Chiwome,39.0
+Possession_Touches_Live,Bottom,Neal Maupay,40.0
+Possession_Touches_Live,Bottom,John Fleck,49.0
+Possession_Take-Ons_Att,Top,Mohammed Kudus,221.0
+Possession_Take-Ons_Att,Top,Jeremy Doku,169.0
+Possession_Take-Ons_Att,Top,Eberechi Eze,140.0
+Possession_Take-Ons_Att,Bottom,Aaron Ramsdale,0.0
+Possession_Take-Ons_Att,Bottom,Alisson,0.0
+Possession_Take-Ons_Att,Bottom,Andrew Omobamidele,0.0
+Possession_Take-Ons_Succ,Top,Mohammed Kudus,124.0
+Possession_Take-Ons_Succ,Top,Jeremy Doku,87.0
+Possession_Take-Ons_Succ,Top,Bruno Guimarães,72.0
+Possession_Take-Ons_Succ,Bottom,Aaron Cresswell,0.0
+Possession_Take-Ons_Succ,Bottom,Aaron Ramsdale,0.0
+Possession_Take-Ons_Succ,Bottom,Adam Webster,0.0
+Possession_Take-Ons_Succ%,Top,Alfie Gilchrist,100.0
+Possession_Take-Ons_Succ%,Top,Alphonse Areola,100.0
+Possession_Take-Ons_Succ%,Top,André Onana,100.0
+Possession_Take-Ons_Succ%,Bottom,Aaron Cresswell,0.0
+Possession_Take-Ons_Succ%,Bottom,Adam Webster,0.0
+Possession_Take-Ons_Succ%,Bottom,Benoît Badiashile,0.0
+Possession_Take-Ons_Tkld,Top,Mohammed Kudus,77.0
+Possession_Take-Ons_Tkld,Top,Raheem Sterling,70.0
+Possession_Take-Ons_Tkld,Top,Dejan Kulusevski,66.0
+Possession_Take-Ons_Tkld,Bottom,Aaron Ramsdale,0.0
+Possession_Take-Ons_Tkld,Bottom,Alfie Gilchrist,0.0
+Possession_Take-Ons_Tkld,Bottom,Alisson,0.0
+Possession_Take-Ons_Tkld%,Top,Aaron Cresswell,100.0
+Possession_Take-Ons_Tkld%,Top,Adam Webster,100.0
+Possession_Take-Ons_Tkld%,Top,Connor Roberts,100.0
+Possession_Take-Ons_Tkld%,Bottom,Alfie Gilchrist,0.0
+Possession_Take-Ons_Tkld%,Bottom,Alphonse Areola,0.0
+Possession_Take-Ons_Tkld%,Bottom,André Onana,0.0
+Possession_Carries_Carries,Top,Rodri,2513.0
+Possession_Carries_Carries,Top,Lewis Dunk,2417.0
+Possession_Carries_Carries,Top,Pascal Groß,2284.0
+Possession_Carries_Carries,Bottom,Leon Chiwome,16.0
+Possession_Carries_Carries,Bottom,John Fleck,19.0
+Possession_Carries_Carries,Bottom,Neal Maupay,20.0
+Possession_Carries_TotDist,Top,Rodri,11575.0
+Possession_Carries_TotDist,Top,Rúben Dias,10862.0
+Possession_Carries_TotDist,Top,Lewis Dunk,10752.0
+Possession_Carries_TotDist,Bottom,John Fleck,81.0
+Possession_Carries_TotDist,Bottom,Leon Chiwome,86.0
+Possession_Carries_TotDist,Bottom,Nathan Fraser,88.0
+Possession_Carries_ProDist,Top,Rúben Dias,6693.0
+Possession_Carries_ProDist,Top,Rodri,6408.0
+Possession_Carries_ProDist,Top,Jan Paul van Hecke,6274.0
+Possession_Carries_ProDist,Bottom,Nathan Fraser,22.0
+Possession_Carries_ProDist,Bottom,Leander Dendoncker,27.0
+Possession_Carries_ProDist,Bottom,Luke Berry,30.0
+Possession_Carries_ProgC,Top,Jeremy Doku,218.0
+Possession_Carries_ProgC,Top,Alejandro Garnacho,178.0
+Possession_Carries_ProgC,Top,Bukayo Saka,155.0
+Possession_Carries_ProgC,Bottom,Aaron Ramsdale,0.0
+Possession_Carries_ProgC,Bottom,Alisson,0.0
+Possession_Carries_ProgC,Bottom,Alphonse Areola,0.0
+Possession_Carries_1/3,Top,Rodri,88.0
+Possession_Carries_1/3,Top,Alejandro Garnacho,83.0
+Possession_Carries_1/3,Top,Martin Ødegaard,83.0
+Possession_Carries_1/3,Bottom,Aaron Ramsdale,0.0
+Possession_Carries_1/3,Bottom,Alisson,0.0
+Possession_Carries_1/3,Bottom,Andrew Omobamidele,0.0
+Possession_Carries_CPA,Top,Jeremy Doku,147.0
+Possession_Carries_CPA,Top,Alejandro Garnacho,102.0
+Possession_Carries_CPA,Top,Dejan Kulusevski,82.0
+Possession_Carries_CPA,Bottom,Aaron Cresswell,0.0
+Possession_Carries_CPA,Bottom,Aaron Ramsdale,0.0
+Possession_Carries_CPA,Bottom,Adam Webster,0.0
+Possession_Carries_Mis,Top,Dominic Solanke,136.0
+Possession_Carries_Mis,Top,Jean-Philippe Mateta,89.0
+Possession_Carries_Mis,Top,Nicolas Jackson,87.0
+Possession_Carries_Mis,Bottom,Aaron Cresswell,0.0
+Possession_Carries_Mis,Bottom,Alphonse Areola,0.0
+Possession_Carries_Mis,Bottom,Angelo Ogbonna,0.0
+Possession_Carries_Dis,Top,Mohammed Kudus,93.0
+Possession_Carries_Dis,Top,Dominic Solanke,81.0
+Possession_Carries_Dis,Top,Lucas Paquetá,81.0
+Possession_Carries_Dis,Bottom,Aaron Ramsdale,0.0
+Possession_Carries_Dis,Bottom,Alisson,0.0
+Possession_Carries_Dis,Bottom,Alphonse Areola,0.0
+Possession_Receiving_Rec,Top,Rodri,3242.0
+Possession_Receiving_Rec,Top,Pascal Groß,2736.0
+Possession_Receiving_Rec,Top,Lewis Dunk,2681.0
+Possession_Receiving_Rec,Bottom,Leon Chiwome,18.0
+Possession_Receiving_Rec,Bottom,John Fleck,27.0
+Possession_Receiving_Rec,Bottom,Neal Maupay,28.0
+Possession_Receiving_PrgR,Top,Bukayo Saka,508.0
+Possession_Receiving_PrgR,Top,Dejan Kulusevski,388.0
+Possession_Receiving_PrgR,Top,Gabriel Martinelli,345.0
+Possession_Receiving_PrgR,Bottom,Aaron Ramsdale,0.0
+Possession_Receiving_PrgR,Bottom,Alisson,0.0
+Possession_Receiving_PrgR,Bottom,Alphonse Areola,0.0
+Playing Time_Starts_Starts,Top,André Onana,38.0
+Playing Time_Starts_Starts,Top,Bernd Leno,38.0
+Playing Time_Starts_Starts,Top,Guglielmo Vicario,38.0
+Playing Time_Starts_Starts,Bottom,David Ozoh,0.0
+Playing Time_Starts_Starts,Bottom,Ivan Perišić,0.0
+Playing Time_Starts_Starts,Bottom,Jesurun Rak Sakyi,0.0
+Playing Time_Starts_Mn/Start,Top,Aaron Ramsdale,90.0
+Playing Time_Starts_Mn/Start,Top,Alisson,90.0
+Playing Time_Starts_Mn/Start,Top,Andrew Omobamidele,90.0
+Playing Time_Starts_Mn/Start,Bottom,Rhys Norrington-Davies,27.0
+Playing Time_Starts_Mn/Start,Bottom,Benson Manuel,45.0
+Playing Time_Starts_Mn/Start,Bottom,John Fleck,45.0
+Playing Time_Starts_Compl,Top,André Onana,38.0
+Playing Time_Starts_Compl,Top,Bernd Leno,38.0
+Playing Time_Starts_Compl,Top,Guglielmo Vicario,38.0
+Playing Time_Starts_Compl,Bottom,Aaron Ramsey,0.0
+Playing Time_Starts_Compl,Bottom,Adam Lallana,0.0
+Playing Time_Starts_Compl,Bottom,Adama Traoré,0.0
+Playing Time_Subs_Subs,Top,Pierre Højbjerg,28.0
+Playing Time_Subs_Subs,Top,Harvey Elliott,23.0
+Playing Time_Subs_Subs,Top,Cauley Woodrow,22.0
+Playing Time_Subs_Subs,Bottom,Aaron Hickey,0.0
+Playing Time_Subs_Subs,Bottom,Aaron Ramsdale,0.0
+Playing Time_Subs_Subs,Bottom,Abdoulaye Doucouré,0.0
+Playing Time_Subs_Mn/Sub,Top,Anthony Gordon,79.0
+Playing Time_Subs_Mn/Sub,Top,Adam Wharton,63.0
+Playing Time_Subs_Mn/Sub,Top,Daniel Bentley,57.0
+Playing Time_Subs_Mn/Sub,Bottom,Ben Godfrey,1.0
+Playing Time_Subs_Mn/Sub,Bottom,Ben Mee,1.0
+Playing Time_Subs_Mn/Sub,Bottom,Ethan Pinnock,1.0
+Playing Time_Subs_unSub,Top,Daniel Bentley,33.0
+Playing Time_Subs_unSub,Top,Thomas Strakosha,32.0
+Playing Time_Subs_unSub,Top,Aaron Ramsdale,31.0
+Playing Time_Subs_unSub,Bottom,Aaron Hickey,0.0
+Playing Time_Subs_unSub,Bottom,Abdoulaye Doucouré,0.0
+Playing Time_Subs_unSub,Bottom,Adam Wharton,0.0
+Playing Time_Team Success_PPM,Top,Thomas Partey,2.71
+Playing Time_Team Success_PPM,Top,Aaron Ramsdale,2.67
+Playing Time_Team Success_PPM,Top,Kevin De Bruyne,2.67
+Playing Time_Team Success_PPM,Bottom,Alex Iwobi,0.0
+Playing Time_Team Success_PPM,Bottom,John Fleck,0.0
+Playing Time_Team Success_PPM,Bottom,Matheus Nunes,0.0
+Playing Time_Team Success_onG,Top,William Saliba,91.0
+Playing Time_Team Success_onG,Top,Rodri,87.0
+Playing Time_Team Success_onG,Top,Declan Rice,84.0
+Playing Time_Team Success_onG,Bottom,Alex Iwobi,0.0
+Playing Time_Team Success_onG,Bottom,Benson Manuel,0.0
+Playing Time_Team Success_onG,Bottom,Neal Maupay,0.0
+Playing Time_Team Success_onGA,Top,Anel Ahmedhodžić,89.0
+Playing Time_Team Success_onGA,Top,Thomas Kaminski,85.0
+Playing Time_Team Success_onGA,Top,Gustavo Hamer,83.0
+Playing Time_Team Success_onGA,Bottom,Hannibal Mejbri,1.0
+Playing Time_Team Success_onGA,Bottom,Ivan Perišić,1.0
+Playing Time_Team Success_onGA,Bottom,Reiss Nelson,1.0
+Playing Time_Team Success xG_onxG,Top,Virgil van Dijk,82.1
+Playing Time_Team Success xG_onxG,Top,William Saliba,76.1
+Playing Time_Team Success xG_onxG,Top,Bruno Guimarães,74.0
+Playing Time_Team Success xG_onxG,Bottom,Benson Manuel,0.5
+Playing Time_Team Success xG_onxG,Bottom,Jaidon Anthony,0.6
+Playing Time_Team Success xG_onxG,Bottom,Tawanda Chirewa,0.8
+Playing Time_Team Success xG_onxGA,Top,Thomas Kaminski,77.6
+Playing Time_Team Success xG_onxGA,Top,André Onana,68.9
+Playing Time_Team Success xG_onxGA,Top,Max Kilman,67.7
+Playing Time_Team Success xG_onxGA,Bottom,Ivan Perišić,1.5
+Playing Time_Team Success xG_onxGA,Bottom,Neal Maupay,1.5
+Playing Time_Team Success xG_onxGA,Bottom,Tawanda Chirewa,1.5
+Miscellaneous Stats_Performance_Fls,Top,Conor Gallagher,83.0
+Miscellaneous Stats_Performance_Fls,Top,João Gomes,66.0
+Miscellaneous Stats_Performance_Fls,Top,Dejan Kulusevski,54.0
+Miscellaneous Stats_Performance_Fls,Bottom,Aaron Ramsdale,0.0
+Miscellaneous Stats_Performance_Fls,Bottom,Alex Iwobi,0.0
+Miscellaneous Stats_Performance_Fls,Bottom,Arijanet Muric,0.0
+Miscellaneous Stats_Performance_Fld,Top,Bruno Guimarães,108.0
+Miscellaneous Stats_Performance_Fld,Top,Jordan Ayew,94.0
+Miscellaneous Stats_Performance_Fld,Top,Mohammed Kudus,75.0
+Miscellaneous Stats_Performance_Fld,Bottom,Alex Iwobi,0.0
+Miscellaneous Stats_Performance_Fld,Bottom,Alfie Gilchrist,0.0
+Miscellaneous Stats_Performance_Fld,Bottom,Caoimhín Kelleher,0.0
+Miscellaneous Stats_Performance_Off,Top,Darwin Núñez,33.0
+Miscellaneous Stats_Performance_Off,Top,Nicolas Jackson,28.0
+Miscellaneous Stats_Performance_Off,Top,Dominic Calvert-Lewin,24.0
+Miscellaneous Stats_Performance_Off,Bottom,Aaron Hickey,0.0
+Miscellaneous Stats_Performance_Off,Bottom,Aaron Ramsdale,0.0
+Miscellaneous Stats_Performance_Off,Bottom,Aaron Wan-Bissaka,0.0
+Miscellaneous Stats_Performance_Crs,Top,Alfie Doughty,340.0
+Miscellaneous Stats_Performance_Crs,Top,Pascal Groß,238.0
+Miscellaneous Stats_Performance_Crs,Top,Dwight McNeil,229.0
+Miscellaneous Stats_Performance_Crs,Bottom,Aaron Ramsdale,0.0
+Miscellaneous Stats_Performance_Crs,Bottom,Alisson,0.0
+Miscellaneous Stats_Performance_Crs,Bottom,Alphonse Areola,0.0
+Miscellaneous Stats_Performance_OG,Top,Antonee Robinson,2.0
+Miscellaneous Stats_Performance_OG,Top,Daiki Hashioka,2.0
+Miscellaneous Stats_Performance_OG,Top,Emiliano Martínez,2.0
+Miscellaneous Stats_Performance_OG,Bottom,Aaron Cresswell,0.0
+Miscellaneous Stats_Performance_OG,Bottom,Aaron Hickey,0.0
+Miscellaneous Stats_Performance_OG,Bottom,Aaron Ramsdale,0.0
+Miscellaneous Stats_Performance_Recov,Top,Bruno Guimarães,237.0
+Miscellaneous Stats_Performance_Recov,Top,Rodri,235.0
+Miscellaneous Stats_Performance_Recov,Top,Ryan Christie,231.0
+Miscellaneous Stats_Performance_Recov,Bottom,Ionuț Radu,0.0
+Miscellaneous Stats_Performance_Recov,Bottom,Mark Travers,1.0
+Miscellaneous Stats_Performance_Recov,Bottom,Thomas Strakosha,1.0
+Miscellaneous Stats_Aerial Duels_Won,Top,James Tarkowski,140.0
+Miscellaneous Stats_Aerial Duels_Won,Top,Virgil van Dijk,140.0
+Miscellaneous Stats_Aerial Duels_Won,Top,Dominic Calvert-Lewin,137.0
+Miscellaneous Stats_Aerial Duels_Won,Bottom,Aaron Ramsdale,0.0
+Miscellaneous Stats_Aerial Duels_Won,Bottom,Alex Iwobi,0.0
+Miscellaneous Stats_Aerial Duels_Won,Bottom,Anass Zaroury,0.0
+Miscellaneous Stats_Aerial Duels_Lost,Top,Carlton Morris,169.0
+Miscellaneous Stats_Aerial Duels_Lost,Top,Dominic Calvert-Lewin,144.0
+Miscellaneous Stats_Aerial Duels_Lost,Top,Dominic Solanke,135.0
+Miscellaneous Stats_Aerial Duels_Lost,Bottom,Aaron Ramsdale,0.0
+Miscellaneous Stats_Aerial Duels_Lost,Bottom,Alex Iwobi,0.0
+Miscellaneous Stats_Aerial Duels_Lost,Bottom,Arijanet Muric,0.0
+Miscellaneous Stats_Aerial Duels_Won%,Top,Arijanet Muric,100.0
+Miscellaneous Stats_Aerial Duels_Won%,Top,Bart Verbruggen,100.0
+Miscellaneous Stats_Aerial Duels_Won%,Top,Caoimhín Kelleher,100.0
+Miscellaneous Stats_Aerial Duels_Won%,Bottom,Anass Zaroury,0.0
+Miscellaneous Stats_Aerial Duels_Won%,Bottom,Andros Townsend,0.0
+Miscellaneous Stats_Aerial Duels_Won%,Bottom,Benson Manuel,0.0
